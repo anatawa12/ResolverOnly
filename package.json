@@ -1,0 +1,8 @@
+{
+	"name" : "com.anatawa12.template.resolver-only",
+	"displayName" : "VPM Resolver Only project",
+	"description" : "",
+	"version" : "1.0.0",
+	"category" : "ProjectTemplate",
+	"dependencies" : {}
+}
